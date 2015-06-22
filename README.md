@@ -3,7 +3,7 @@
 
 # Installation
 
-Installing the Redirects2 can only be done manually via a zip file until it is added to the Grav GPM.
+Installing the Redirects2 plugin can only be done manually via a zip file until it is added to the Grav GPM.
 
 ## Manual Installation
 
