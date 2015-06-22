@@ -3,11 +3,11 @@
 
 # Installation
 
-Installing the Redirects2 can only be down manually via a zip file until it is added to the Grav GPM.
+Installing the Redirects2 can only be done manually via a zip file until it is added to the Grav GPM.
 
 ## Manual Installation
 
-To install this plugin, just download the zip version of this repository and unzip it under `/your/site/grav/user/plugins`. Then, rename the folder to `redirects`. You can find these files either on [GitHub](https://github.com/dfrankland/grav-plugin-redirects2).
+To install this plugin, just download the zip version of this repository and unzip it under `/your/site/grav/user/plugins`. Then, rename the folder to `redirects2`. You can find these files on [GitHub](https://github.com/dfrankland/grav-plugin-redirects2).
 
 You should now have all the theme files under
 
@@ -22,20 +22,13 @@ As development for the Redirects2 plugin continues, new versions may become avai
 Manually updating Redirects2 is pretty simple. Here is what you will need to do to get this done:
 
 * Delete the `your/site/user/plugins/redirects2` directory.
-* Downalod the new version of the Redirects2 plugin from [GitHub](https://github.com/dfrankland/grav-plugin-redirects2).
+* Download the new version of the Redirects2 plugin from [GitHub](https://github.com/dfrankland/grav-plugin-redirects2).
 * Unzip the zip file in `your/site/user/plugins` and rename the resulting folder to `redirects2`.
 * Clear the Grav cache. The simplest way to do this is by going to the root Grav directory in terminal and typing `bin/grav clear-cache`.
 
 > Note: Any changes you have made to any of the files listed under this directory will also be removed and replaced by the new set. Any files located elsewhere (for example a YAML settings file placed in `user/config/plugins`) will remain intact.
 
-## Features
-
-* Lightweight and minimal for optimal performance
-* Fully responsive with off-page mobile navigation
-* SCSS based CSS source files for easy customization
-* Built-in support for on-page navigation
-* Mutliple page template types
-* Fontawesome icon support
+# Features
 
 ### URL (required)
 
