@@ -1,0 +1,12 @@
+name: Redirects2
+version: 0.0.1
+description: "**Grav** plugin to redirect on a per page basis."
+icon: external-link
+author:
+  name: Dylan Frankland
+  email: dylan@frankland.io
+  url: http://dylan.frankland.io
+homepage: https://github.com/dfrankland/grav-plugin-redirects2
+keywords: redirects2, redirects, redirect, plugin
+bugs: https://github.com/dfrankland/grav-plugin-redirects2/issues
+license: MIT
